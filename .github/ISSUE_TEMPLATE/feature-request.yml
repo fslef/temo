@@ -27,7 +27,7 @@ body:
       description: Please describe any alternatives or workarounds you have considered and, possibly, rejected.
     validations:
       required: true
-- type: checkboxes
+  - type: checkboxes
     id: terms
     attributes:
       label: Code of Conduct
