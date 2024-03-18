@@ -4,7 +4,7 @@ title: "[Bug]: "
 labels: ["bug", "needs-triage"]
 projects: ["fslef/8"]
 assignees:
-  - octocat
+  - fslef
 body:
   - type: markdown
     attributes:
